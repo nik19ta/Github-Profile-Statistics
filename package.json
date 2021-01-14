@@ -1,0 +1,23 @@
+{
+  "name": "github-profile-statistics",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to profile statistics on the site github.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nik19ta/Github-Profile-Statistics.git"
+  },
+  "author": "nik19ta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nik19ta/Github-Profile-Statistics/issues"
+  },
+  "homepage": "https://github.com/nik19ta/Github-Profile-Statistics#readme",
+  "dependencies": {
+    "github-api": "^3.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
